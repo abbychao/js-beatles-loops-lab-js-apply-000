@@ -23,7 +23,7 @@ function iLoveTheBeatles(n) {
   if(n>15) {
     i = 15
   }
-  var i = 0
+  var i = n
   result = []
   do {
     result.push("I love the Beatles!")

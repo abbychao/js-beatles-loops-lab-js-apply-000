@@ -26,5 +26,6 @@ function iLoveTheBeatles(n) {
     result.push("I love the Beatles!")
   }
   while (i<15)
+  console.log(result)
   return result
 }

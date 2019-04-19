@@ -24,7 +24,6 @@ function iLoveTheBeatles(n) {
   if(i>15) {
     i = 15
   }
-  result = []
   do {
     result.push("I love the Beatles!")
   }

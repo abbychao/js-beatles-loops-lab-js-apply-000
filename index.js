@@ -29,3 +29,7 @@ function iLoveTheBeatles(n) {
   console.log(result)
   return result
 }
+
+function test() {
+  console.log(test)
+}

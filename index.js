@@ -20,10 +20,10 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(n) {
-  if(n>15) {
+  var i = n
+  if(i>15) {
     i = 15
   }
-  var i = n
   result = []
   do {
     result.push("I love the Beatles!")

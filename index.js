@@ -5,8 +5,8 @@ function theBeatlesPlay (musicians, instruments) {
   for (i = 0; i<musicians.length; i++) {
     var string = `${musicians[0]} plays ${instruments[0]}`
     array.push(string)
-    return array
   }
+  return array
 }
 
 function johnLennonFacts(facts) {
